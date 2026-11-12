@@ -1,0 +1,11 @@
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+C>>
+C>>  Staad Filename: C:\Users\fasil\OneDrive\Desktop\Work\CLAUDE~1\BOXCUL~1\SINGLE~1\Box culvert.STD
+C>>
+C>>  Error Filename: C:\Users\fasil\OneDrive\Desktop\Work\CLAUDE~1\BOXCUL~1\SINGLE~1\Box culvert.err
+C>>
+C>>  Date: Thursday, October 22, 2026     Time: 06 : 28 : 41 PM
+C>>
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+E=>    34: SELFWEIGHT  -1
+*=> Error, SELFWEIGHT command has been ignored.  MUST define load factor.
