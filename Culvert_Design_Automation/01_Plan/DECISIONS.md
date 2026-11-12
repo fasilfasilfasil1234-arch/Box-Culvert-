@@ -10,6 +10,19 @@ answered items of `04_Open_Questions.md`.
 
 ---
 
+## 12 Nov 2026 – Project files reorganised
+
+- **D12N-1 One decision log and one planning file.** `01_Plan/DECISIONS.md` holds every decision
+  (newest first, superseded entries marked). `01_Plan/Master_Planning.md` holds the stage status,
+  next steps and the only folder tree. `HANDOFF.md` (same folder) holds the last session's state.
+  Why: the same decisions and status were repeated, and sometimes contradicted each other, across
+  six files. *Rejected:* keeping `Decisions_Log.md` as the log.
+- **D12N-2 Retired notes are moved to `Culvert_Design_Automation/_archive/`, never deleted:**
+  `Decisions_Log.md`, `Important_Changes_2026-10-16.md` and `00_README.md`.
+  `Project_Plan.pdf` stays unchanged as a historic 16 Oct snapshot. Don't use it for current rules.
+- **D12N-3 `CLAUDE.md` keeps only the rules, OpenSTAAD facts and workflow**, plus a "Project files"
+  table saying when to read each file. Decisions and the folder tree live in the two files above.
+
 ## 31 Oct 2026 – Vehicle loading (pilot: 70R wheeled)
 
 - **D31-1 Water on the base slab is confirmed.** Load case 7 puts γw·Hw downward on the base slab
